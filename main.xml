@@ -1,0 +1,119 @@
+     <items>
+         <type>dir</type>
+         <title>Members Playlists</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/members.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Concerts</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>EDM Music Festivals</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musicfestivals.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true</thumbnail>
+         <title>Artists</title>
+         <type>dir</type>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Years</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Music Documentaries</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Documentaries.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicdocoslogo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/variousoneclicks</link>
+         <thumbnail>https://raw.githubusercontent.com/MetalDudesMusic/pics/main/variousmusicvideoslogo.png</thumbnail>
+         <title>Various</title>
+         <type>dir</type>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/Remix</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/videomashupslogo.png?raw=true</thumbnail>
+         <title>Mashups</title>
+         <type>dir</type>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musicmovies.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicmovieslogo.png?raw=true</thumbnail>
+         <title>Music Movies</title>
+         <type>dir</type>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Bonus Movies</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/bonusmovies</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/Bonus%20Movies%20logo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Radio</title>
+         <link>https://raw.githubusercontent.com/aussiemaniacs/420clubhouse/master/Radio.xml</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/radio%20logo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Music 247</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/yt247.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/music247%20logo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Music Tutorials</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musictuts.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/music%20tutorials%20logo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>item</type>
+         <title>[COLOR khaki]Clear Cache[/COLOR]</title>
+         <link>clear_cache</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/clearcachelogo.png?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://vk.com/video745861047_456239049</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true</thumbnail>
+         <title>test 1</title>
+         <type>item</type>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://vk.com/video745861047_456239050</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true</thumbnail>
+         <title>Test 2</title>
+         <type>item</type>
+     </items>
+     <items>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/soundclout.json</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/testlogo.png?raw=true</thumbnail>
+         <title>Soundcloud still testing</title>
+         <type>dir</type>
+     </items>
