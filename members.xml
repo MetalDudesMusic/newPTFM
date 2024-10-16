@@ -1,0 +1,49 @@
+     <items>
+         <type>dir</type>
+         <title>The Hermit</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/The%20Hermits.json</link>
+         <thumbnail>https://raw.githubusercontent.com/MetalDudesMusic/pics/main/lats%20the%20hermit%20logo.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>Strange Lass</title>
+         <link>plugin.video.youtube/playlist/PL1VQG1QhVNxXsfBysWk3qMPQJOuzCC9Vw</link>
+         <thumbnail>https://i.pinimg.com/550x/02/2f/e7/022fe704124bb17c12e227b725672c48.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Big Kevs</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/BigKevs.json</link>
+         <thumbnail>https://pbs.twimg.com/profile_images/1744711796232220672/gTvYaROk_400x400.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Metal Mayhem</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Music-Vids-Dance.json</link>
+         <thumbnail>https://www.tvguide.com/a/img/catalog/provider/1/1/1-4283159882.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>Smokin Builds</title>
+         <link>plugin.video.youtube/playlist/PLZPXCCyZsRZH2R7QEQ_WVXu_bq2k_cYCR</link>
+         <thumbnail>https://i.ytimg.com/vi/z4dzRD6dFvA/hqdefault.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>plugin</type>
+         <title>Dudelove00</title>
+         <link>plugin.video.youtube/playlist/PLLs0GXX5LPpHJUY44TqNxzXOxVf2msMiz</link>
+         <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/photo_2_2024-07-16_20-21-59.jpg?raw=true</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
+     <items>
+         <type>dir</type>
+         <title>Redlist</title>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Redlist.json</link>
+         <thumbnail>https://images.saasworthy.com/redlist_32899_logo_1643255531_0bzd4.jpg</thumbnail>
+         <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
+     </items>
