@@ -1,21 +1,21 @@
      <items>
          <type>dir</type>
          <title>Members Playlists</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/members.json</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/members.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <type>dir</type>
          <title>Concerts</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/PTFM/main/concerts</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/concerts.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <type>dir</type>
          <title>EDM Music Festivals</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/musicfestivals.json</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/EDMfestivals.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
