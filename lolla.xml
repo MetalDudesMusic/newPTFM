@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-	<item>
+        <item>
 		<type>plugin</type>
 		<title>Lollapalooza 2024 sets</title>
 		<link>plugin.video.youtube/playlist/PLT1dxgsJ37R55TOX3eZPQ5TRXd4MsqaSq</link>
@@ -35,4 +33,3 @@
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
 	</item>
-</root>
