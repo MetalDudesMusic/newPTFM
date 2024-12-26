@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <root>
-	<items>
+	<item>
 		<type>plugin</type>
 		<title>Lollapalooza 2024 sets</title>
 		<link>plugin.video.youtube/playlist/PLT1dxgsJ37R55TOX3eZPQ5TRXd4MsqaSq</link>
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-	</items>
-	<items>
+	</item>
+	<item>
 		<type>plugin</type>
 		<title>Lollapalooza 2023 sets</title>
 		<link>plugin.video.youtube/playlist/PLvG0tvdtd6ZTHssAN6qQvMSVZFv2wVHuV</link>
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-	</items>
-	<items>
+	</item>
+	<item>
 		<type>plugin</type>
 		<title>Lollapalooza 2022 sets</title>
 		<link>plugin.video.youtube/playlist/PLh7sKh_zw6B4EL7_Nukv8DfXchmr6hMeK</link>
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-	</items>
-	<items>
+	</item>
+	<item>
 		<type>plugin</type>
 		<title>Lollapalooza 2021 sets</title>
 		<link>plugin.video.youtube/playlist/PLZ9jC7TzlWgilpjHwWEz4r2ObghD57dne</link>
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-	</items>
-	<items>
+	</item>
+	<item>
 		<type>plugin</type>
 		<title>Lollapalooza 2019 sets</title>
 		<link>plugin.video.youtube/playlist/PL--xxCK1cTDNxoiTampY-xcVGxK9UJdM6</link>
 		<thumbnail>https://store.lollapalooza.com/cdn/shop/files/Lolla24_Logo_Horizontal_Red_w.WhitePad.png</thumbnail>
 		<fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-	</items>
+	</item>
 </root>
