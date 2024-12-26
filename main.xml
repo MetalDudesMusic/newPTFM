@@ -1,27 +1,27 @@
      <items>
          <type>dir</type>
          <title>Members Playlists</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/members.xml</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/members.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/membersplaylistslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <type>dir</type>
          <title>Concerts</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/concerts.xml</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/concerts.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/concerts%20logo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <type>dir</type>
          <title>EDM Music Festivals</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/refs/heads/main/EDMfestivals.xml</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/EDMfestivals.xml</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicfestivalslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Artists</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/Artists</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/artistsmusicvideoslogo.png?raw=true</thumbnail>
          <title>Artists</title>
          <type>dir</type>
@@ -29,14 +29,14 @@
      <items>
          <type>dir</type>
          <title>Years</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/tunes/years</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/years</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/yearsmusicvideoslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
      <items>
          <type>dir</type>
          <title>Music Documentaries</title>
-         <link>https://raw.githubusercontent.com/MetalDudesMusic/Dude/main/musician/Documentaries.json</link>
+         <link>https://raw.githubusercontent.com/MetalDudesMusic/newPTFM/main/Documentaries.json</link>
          <thumbnail>https://github.com/MetalDudesMusic/pics/blob/main/musicdocoslogo.png?raw=true</thumbnail>
          <fanart>https://github.com/MetalDudesMusic/pics/blob/main/PTFM%20BG%201080p.png?raw=true</fanart>
      </items>
